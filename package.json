@@ -1,0 +1,18 @@
+{
+  "name": "node-cfn-billing-dl",
+  "version": "1.0.1",
+  "description": "MJC Testing",
+  "main": "index.js",
+  "keywords": [
+    "cloud",
+    "functions",
+    "gcp",
+    "gcf"
+  ],
+  "author": "Mark Chilvers",
+  "license": "ISC",
+  "dependencies": {
+    "google-cloud": "^0.39.0",
+    "request": "^2.74.0"
+  }
+}
